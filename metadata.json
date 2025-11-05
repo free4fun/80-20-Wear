@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Paletas de Vestimenta",
+  "description": "Una aplicación para visualizar combinaciones de atuendos basadas en la regla de color de 'acento único' y paletas de otoño predefinidas. Ayuda a los usuarios a crear conjuntos elegantes y coordinados.",
+  "requestFramePermissions": []
+}
